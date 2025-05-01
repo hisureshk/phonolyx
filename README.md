@@ -1,7 +1,7 @@
-# Voice Analysis App
+# Phonolyx 
 
 ## Overview
-Voice Analysis App is a React Native mobile application that enables users to record speech, transcribe it using OpenAI's Whisper model, and provide detailed analysis of speaking patterns. The app helps users improve their public speaking skills by providing metrics and feedback on their speech patterns.
+Phonolyx is an Voice Analysis mobile App built using React Native that enables users to record speech, transcribe it using OpenAI's Whisper model, and provide detailed analysis of speaking patterns. The app helps users improve their public speaking skills by providing metrics and feedback on their speech patterns.
 
 ## Features
 - 🎤 Voice Recording with duration tracking
